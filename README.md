@@ -1,4 +1,4 @@
-##Text-Utails [A text manipulation web-app]
+## Text-Utails [A text manipulation web-app]
 
 ---
 
@@ -7,8 +7,8 @@
   
 ---  
 
-##Live Link  
-https://kz-himel.github.io/Payoo-app/
+## Live Link  
+https://kz-himel.github.io/TeXT-uTAiLS/
 
 ## Features
 - Convert text to uppercase, lowercase, and title case  
